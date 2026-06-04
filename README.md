@@ -6,32 +6,8 @@
 
 ###
 
-<h2 align="left">Techs</h2>
-
-###
-
 <div align="left">
 </div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/freitagtech/freitagtech/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/freitagtech/freitagtech/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/freitagtech/freitagtech/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/freitagtech/freitagtech/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/freitagtech/freitagtech/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/freitagtech/freitagtech/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
